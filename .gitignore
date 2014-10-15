@@ -1,0 +1,9 @@
+.build.sbt.swp
+.cache
+console.devmode.log
+lift_proto.db.h2.db
+lift_proto.db.lock.db
+project/project/
+project/target/
+target/
+
